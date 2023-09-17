@@ -1,4 +1,4 @@
-# onpage seo audit tool
+# Onpage seo audit tool
 
 ## Getting Started
 - Clone the project
@@ -9,10 +9,10 @@
 ## Features
 - Tailwindcss for styliing
 - react-hook-form for input validation
-- helper function to convert api credentials to base64
-- axios for api call (using sandbox api url)
-- redux toolkit for state management
-- animations
+- Helper function to convert api credentials to base64
+- Axios for api call (using sandbox api url)
+- Redux toolkit for state management
+- Animations
 - Responsive design
 
 ## Technologies used
@@ -21,4 +21,5 @@
 - Tailwind Css
 
 ## Live link
+https://data-for-seo.netlify.app/
 
